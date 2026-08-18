@@ -11,7 +11,7 @@
 
 * Control Flow 유형
   * [branching](#2-branching)
-  * [Depend on Past](#3-depend-on-past)
+  * [Depend on Past](#3-depends-on-past)
   * Latest Only
 
 ## 2. branching
